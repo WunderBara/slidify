@@ -1,0 +1,56 @@
+---
+title       : BMI calculator
+subtitle    : Description
+author      : Me
+job         : :-)
+framework   : io2012   # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [bootstrap, quiz]          # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+## BMI Calculator 
+
+Application was made for the class Development Data Products on Coursera.
+
+These slides cover the description of the application BMI Calculator.
+
+--- 
+
+## Link
+
+You can find the application here https://aloevera.shinyapps.io/shiny
+
+--- 
+
+## Functions
+
+- You enter your weight (in kilograms) and your heigth (in centimeters)
+- It shows you your BMI index
+- Then you can see what group you belong to
+
+--- &radio
+## Question 1
+
+What is BMI index of a person who has 60,5 kg and 175 cm?
+
+1. 20
+2. _19.7551_
+3. 30
+4. 25
+
+*** .hint
+You can use the BMI calculator to find out.
+
+*** .explanation
+It is just how it is.
+
+--- 
+## Christmass
+
+I hope you enjoyed this presentation atleast a little bit. And I hope you didn't spent much time on evaluating it because it is christmass time :-)
+
+I with you merry christmass and a happy new year!!
